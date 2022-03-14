@@ -1,6 +1,8 @@
 %% Machine Learning Online Class
 %  Exercise 1: Linear regression with multiple variables
-%
+
+% run('ex1_multi.m')
+
 %  Instructions
 %  ------------
 % 
